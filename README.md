@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I am a **Junior DevOps** focused on building scalable cloud infrastructure, automating deployment pipelines, and ensuring system reliability. With a good background in both software development and infrastructure design, I bridge the gap between development and operations to deliver high-performance applications.
+I am a **Junior DevOps** focused on building scalable cloud infrastructure, automating deployment pipelines, and ensuring system reliability. With a good background in infrastructure design, I bridge the gap between development and operations to deliver high-performance applications.
 
 * 🛠️ Architecting reliable infrastructure using **Infrastructure as Code (IaC)**.
 * 📈 Implementing comprehensive **Observability stacks** to ensure system health and performance.
