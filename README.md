@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Teixeira 👋</h1>
 
-<!--
-**xeixera/xeixera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  📍 Brazil <br>
+  ☁️ DevOps / Cloud Infrastructure
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>DevOps | Infrastructure as Code | Systems Observability </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielteixeirawoozie/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabrielsousat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a **Junior DevOps** focused on building scalable cloud infrastructure, automating deployment pipelines, and ensuring system reliability. With a good background in both software development and infrastructure design, I bridge the gap between development and operations to deliver high-performance applications.
+
+* 🛠️ Architecting reliable infrastructure using **Infrastructure as Code (IaC)**.
+* 📈 Implementing comprehensive **Observability stacks** to ensure system health and performance.
+* 📦 Designing robust **CI/CD pipelines** and containerized environments.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,jenkins,nginx,linux,ansible" />
+</p>
+
+### 📈 Observability & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 💻 Software Development & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,opencv,postgres,git" />
+</p>
+
+---
